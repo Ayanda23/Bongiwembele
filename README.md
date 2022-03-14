@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bongiwembele
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning html, css,javascript and python
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me on WhatsApp +27 71 732 3992
 
